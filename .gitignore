@@ -4,3 +4,4 @@
 /preprocessed/
 /testset/
 *.csv
+*.code-workspace
